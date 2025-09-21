@@ -22,7 +22,7 @@
 
 <div align="center">
     <!-- Замените gameplay1.gif на ваш гифкой или скриншотом -->
-    <img src="README/gameplay1.gif" alt="Размещение ботов на сетке" width="350"/>
+    <img src="README/gameplay1.gif" alt="Размещение ботов на сетке" width="250"/>
 </div>
 
 - Расширяйте зону влияния, чтобы добраться до сундуков с наградами;
@@ -33,14 +33,14 @@
 
 <div align="center">
     <!-- Замените gameplay2.gif на ваш гифкой или скриншотом -->
-    <img src="README/gameplay2.gif" alt="Захват территории" width="350"/>
+    <img src="README/gameplay2.gif" alt="Захват территории" width="250"/>
 </div>
 
 - Объединяйте силы ваших ботов, чтобы дать отпор врагам и защитить свои владения.
 
 <div align="center">
     <!-- Замените gameplay3.gif на ваш гифкой или скриншотом -->
-    <img src="README/gameplay3.gif" alt="Сражение с врагами" width="350"/>
+    <img src="README/gameplay3.gif" alt="Сражение с врагами" width="250"/>
 </div>
 
 <div align="center">⠀</div>
