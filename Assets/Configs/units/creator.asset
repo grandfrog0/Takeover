@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25531738ae7958847a55da3ae0939bda, type: 3}
+  m_Name: creator
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 5414825478452121218, guid: 3860ea0015177724182dcd6578cbdf35, type: 3}
+  model: {fileID: 5980765500005838325, guid: acf8c458016a22c4b98b6d561cffc303, type: 3}
+  build: {fileID: 11400000, guid: c311f3a21ac3e1f4d86528341a2e055b, type: 2}
+  config: {fileID: 11400000, guid: bfce1e8af190c0c4293b0ff5dae6838d, type: 2}
+  editables: {fileID: 11400000, guid: ff40eb53d38c663448ae9f12d6fcad01, type: 2}
+  infoAnimation: {fileID: 1676695838474011464, guid: 99b6ca87bae9cd543be05c9375cd25a4, type: 3}
+  unitName: creator
+  unitDescription: creates units for coins and energy that can be placed manually.

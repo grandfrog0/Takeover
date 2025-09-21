@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25531738ae7958847a55da3ae0939bda, type: 3}
+  m_Name: aggregator
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 2824677161649000657, guid: e24e60829f89aed47869f25dabe25796, type: 3}
+  model: {fileID: 7281035772078089054, guid: 9e6c784f02d2d4d41b60963b93de0a22, type: 3}
+  build: {fileID: 11400000, guid: c865b4ffe68896e40a44400e01d35f7d, type: 2}
+  config: {fileID: 11400000, guid: 8cd6f01678f6f9e46aa9f187314bd104, type: 2}
+  editables: {fileID: 11400000, guid: c0acb923da029b2408196232df4defcf, type: 2}
+  infoAnimation: {fileID: 8383291184225508278, guid: 82e01f61e11e77f49be86acf5f999a27, type: 3}
+  unitName: aggregator
+  unitDescription: Allows you to place units nearby.

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25531738ae7958847a55da3ae0939bda, type: 3}
+  m_Name: box
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 1761935590996992205, guid: 2fa5124cd6383614b93e873121b79e9d, type: 3}
+  model: {fileID: 1761935590996992205, guid: 096da2155f71a0a409c67435ca95b426, type: 3}
+  build: {fileID: 11400000, guid: c865b4ffe68896e40a44400e01d35f7d, type: 2}
+  config: {fileID: 11400000, guid: c6cad340aa70376419b64aa3ae04cdde, type: 2}
+  editables: {fileID: 11400000, guid: c0acb923da029b2408196232df4defcf, type: 2}
+  infoAnimation: {fileID: 0}
+  unitName: box
+  unitDescription: an ordinary object.

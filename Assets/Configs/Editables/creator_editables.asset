@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1745ff3d4e58f6947bd3f8828f57302c, type: 3}
+  m_Name: creator_editables
+  m_EditorClassIdentifier: 
+  editables:
+  - title: Open the creation window
+    valueName: 
+    EditableType: 3
+    step: {fileID: 0}
+    shell: {fileID: 8476899997819151247, guid: 286c7d8985010064f912ae20d45e8864, type: 3}
+    customSprite: {fileID: 21300000, guid: 1ed26457d404c294c9350d39372c30c1, type: 3}
